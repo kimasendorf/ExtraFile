@@ -1,0 +1,26 @@
+ExtraFile is conceptional software art but with a practical usage.
+
+It's main intention is to wiggle the static system of image file formats.
+
+All started with the idea of inventing a new image file format, a format as a piece of art. Far away from the mainstream and commercial standards. Just to express the feeling of using and saving data in a new, fictitious or artificial way. Getting the filename extension into the scope of the artwork itself. In simple terms: Creating an exclusivity.
+
+The freedom not to have to pay attention to the file size or the loading and saving times provides the option to implement artistically byte orders, odd quality behaviors and visual designed formats.
+
+ExtraFile is breaking the rules of commercial formats like JPG, PNG or TIFF. It is a pioneer art project in storing image data. The process and the resulting bytes, regardless of content, become the artwork itself.  
+
+You want painters to build their own canvas?
+Digital artists and collectors deserve exclusive formats. Personalized files, including costume headers or comments. Every bit could be placed like the artist wants it.
+
+
+ExtraFile is a native Mac OS X image converter application with the ability to open, preview and save the most common image file formats. It offers the possibility to use the seven build-in formats, 4Bit Components, Block Ascii, Block Indexed, Channel Compressed Image, Monochrome Collector File, Uniform Spectrum and the ExtraFile Format, to store image data.
+
+
+ExtraFile is open source licensed under the Artistic License 2.0
+http://www.perlfoundation.org/artistic_license_2_0
+
+
+ExtraFile
+http://extrafile.org
+
+Kim Asendorf
+http://kimasendorf.com
